@@ -1,0 +1,22 @@
+# Behavioral Interview Questions and Guide
+
+## Common Behavioral Questions
+- Tell me about a time you had a conflict with a team member.
+- Describe a challenging situation you overcame at work.
+- How do you prioritize tasks under pressure?
+- Describe a time when you made a mistake — how did you handle it?
+
+## STAR Method Tips
+- **S (Situation):** Briefly set the scene.
+- **T (Task):** What was your responsibility?
+- **A (Action):** What specific steps did you take?
+- **R (Result):** What happened? What was the outcome?
+
+## Sample STAR Answer
+**Q:** Tell me about a time you led a team project.
+
+**A:**  
+- S: At my last job, we had a short deadline for a client website.
+- T: I was responsible for coordinating 4 developers.
+- A: I set up daily stand-ups, tracked progress in Trello, and resolved blockers quickly.
+- R: We delivered the site 3 days early and the client renewed their contract.

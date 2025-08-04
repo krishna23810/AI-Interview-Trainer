@@ -1,0 +1,22 @@
+# Interview Tips by Role
+
+## Backend Developer
+- Focus on system design, scalability, and APIs.
+- Practice explaining database schema and ORM concepts.
+- Be prepared for questions about caching and performance tuning.
+
+**Common Mistake:** Not testing edge cases in code challenges.
+
+## Data Analyst
+- Prepare to explain charts and graphs.
+- Be ready to interpret data trends and anomalies.
+- Know how to clean and validate datasets.
+
+**Common Mistake:** Ignoring business context when analyzing data.
+
+## Product Manager
+- Demonstrate leadership and cross-functional communication.
+- Practice feature prioritization and stakeholder negotiation.
+- Know your favorite product and why it succeeds.
+
+**Common Mistake:** Focusing only on tech, not user impact.

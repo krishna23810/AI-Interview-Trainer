@@ -1,0 +1,22 @@
+# Technical Interview Questions
+
+## Role: Backend Developer (Junior)
+- What is the difference between REST and GraphQL?
+- How does Django handle database migrations?
+- Explain the role of ORM in Django.
+- What is the difference between synchronous and asynchronous requests?
+
+## Role: Backend Developer (Mid-Level)
+- How would you scale a Django application for high traffic?
+- What are PostgreSQL indexes, and how do they work?
+- Describe how to design a RESTful API with versioning and authentication.
+
+## Role: Data Scientist
+- How does a decision tree work? When would you use it?
+- Explain the concept of overfitting in machine learning.
+- What is the difference between bagging and boosting?
+
+## Role: Cloud Engineer
+- What are the key differences between IaaS, PaaS, and SaaS?
+- How does container orchestration work in Kubernetes?
+- Explain how a CI/CD pipeline works with Terraform and GitHub Actions.
